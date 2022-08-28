@@ -1668,7 +1668,7 @@ ul.icon_hu li {
 }
 
 .contact_bg .send:hover {
-    background-color: #0fb0d3;
+    background-color: #80AEFF;
 
     color: #fff;
     transition: all 0.3s ease-in;
@@ -1680,7 +1680,7 @@ ul.icon_hu li {
 
 /** footer **/
 .footer {
-    background: #435d88;
+    background: #9ebff9;
     margin-top: 90px;
 }
 
@@ -1744,9 +1744,9 @@ ul.icon_hu li {
 }
 
 .submit:hover {
-    background: #ddd;
-    border: #ddd solid 1px;
-    color: #0fb0d3;
+    background: #91b8fb;
+    border: #80AEFF solid 1px;
+    color: #fff;
     transition: all 0.3s ease-in;
 
 }
@@ -1789,7 +1789,7 @@ ul.social_link li {
 
 ul.social_link li a {
     font-size: 24px;
-    color: #161616;
+    color: #fff;
     background: #80AEFF;
     border-radius: 80px;
     display: flex;
@@ -1801,7 +1801,7 @@ ul.social_link li a {
 
 ul.social_link li a:hover {
 
-    color: #fff;
+   background-color: #91b8fb;
 }
 
 .copyright {
